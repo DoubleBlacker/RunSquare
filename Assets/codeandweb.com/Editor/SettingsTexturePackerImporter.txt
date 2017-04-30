@@ -1,0 +1,38 @@
+version: 2
+importPivots: 0
+tpsheetFileNames:
+- Assets/Resources/Avatars/avatar_cn.tpsheet
+- Assets/Resources/Avatars/avatar_en.tpsheet
+- Assets/Resources/Props/prop.tpsheet
+- Assets/Resources/RSB/readybang.tpsheet
+- Assets/Resources/Skins/skin.tpsheet
+- Assets/Resources/Skins/skin2.tpsheet
+- Assets/Sprite/UI.tpsheet
+- Assets/Sprites/cow.tpsheet
+- Assets/Sprites/game.tpsheet
+- Assets/Sprites/shop.tpsheet
+- Assets/Sprites/ui.tpsheet
+textureFileNames:
+- Assets/Resources/Avatars/avatar_cn.png
+- Assets/Resources/Avatars/avatar_en.png
+- Assets/Resources/Props/prop.png
+- Assets/Resources/RSB/readybang.png
+- Assets/Resources/Skins/skin.png
+- Assets/Resources/Skins/skin2.png
+- Assets/Sprite/UI.png
+- Assets/Sprites/cow.png
+- Assets/Sprites/game.png
+- Assets/Sprites/shop.png
+- Assets/Sprites/ui.png
+normalmapFileNames:
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
